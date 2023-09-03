@@ -1,5 +1,5 @@
-Vikram-lander-simulator
-Vikram lander simulator using Android app.
+# Vikram-lander-simulator
+# Vikram lander simulator using Android app.
 
 1. Install the APK file on your phone.
 2. Download Processing on your PC. https://processing.org/download I am using 4.1.2
@@ -10,7 +10,7 @@ Vikram lander simulator using Android app.
    It should look like this
    \Documents\Processing\libraries\controlP5
    \Documents\Processing\libraries\toxiclibs_p5
-   otherwise, processing will not be able to find it
+   Otherwise, processing will not be able to find it
 4. Find the IP address of your PC
 5. Launch the Android app and enter the PC IP address and port number.
 6. The default port number is 6000 you can change it in the processing program.
