@@ -17,3 +17,5 @@
 7. Both phone and PC should be on the same Wi-Fi network
 8. Click on begin transmission on the app.
 9. You should see data being displayed on the processing output and Visualization.
+
+IMPORTANT:- DO NOT CLICK ANY BUTTON ON THE APP WITHOUT ADDING IP ADDRESS OR PORT NUMBER
